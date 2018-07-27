@@ -1,0 +1,103 @@
+.ie .ct-series-a .ct-bar{
+    stroke-width: 25px;
+}
+.ie .ct-series-b .ct-bar{
+    stroke-width: 20px;
+}
+.ar .ct-series-a .ct-bar {
+    stroke-width: 100px;
+    stroke: #87CB16;
+}
+.ar .ct-series-b .ct-bar {
+    stroke-width: 100px;
+    stroke: #FFA534;
+}
+.ar .ct-series-c .ct-bar {
+    stroke-width: 100px;
+    stroke: #FB404B;
+    /*animation: width-pulse 2s infinite;*/
+}
+.ptmg .ct-label {
+    fill:  rgba(0,0,0,1);
+    font-weight: bold;
+    font-size: 185%;
+}
+.ptmg .ct-series-a .ct-slice-donut {
+    stroke: #FF4A55;
+}
+.ptmg .ct-series-b .ct-slice-donut {
+    stroke: #1DC7EA;
+}
+.ct-chart-bar .ct-series-a .ct-bar{
+    stroke-length:  50%;
+}
+.content .dateHeader{
+    font-weight: bold;
+    font-size: 353%;
+    margin-left: 33%;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 2%;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+    width: 34%;
+    line-height: 1;
+    border-bottom-style: solid;
+    margin-top:  8px;
+}
+#main-panel .content{
+    padding: 5px 15px;
+}
+/*@keyframes width-pulse {*/
+/*0% {*/
+/*stroke-width: 0px;*/
+/*}*/
+
+/*100% {*/
+/*stroke-width: 80px;*/
+/*}*/
+/*}*/
+.stats_dollar_amount{
+    font-size: 84%;
+    color: green;
+}
+.ar .ct-tooltip{
+    position: absolute;
+    color: black;
+    font-size: 45px;
+    margin-top: 15%;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+
+}
+.ca .ct-tooltip{
+    position: absolute;
+    color: black;
+    font-size: 45px;
+    margin-top: 10%;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+    margin-left: -20%;
+
+}
+.ptmg .ct-tooltip{
+    position: absolute;
+    color: black;
+    font-size: 45px;
+    margin-top: 20%;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+    margin-left: -5%;
+
+}
+.ie .ct-tooltip{
+    position: absolute;
+    color: black;
+    font-size: 45px;
+    margin-top: 5%;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+    margin-left: -17%;
+
+}
+.login {
+    text-align: center;
+}
+.loginError{
+    color: red;
+}

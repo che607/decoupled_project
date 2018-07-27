@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/consolidation/annotated-command" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/consolidation/output-formatters" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/cweagans/composer-patches" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/defuse/php-encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/drupal-composer/drupal-scaffold" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/drush/drush" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/e0ipso/shaper" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/easyrdf/easyrdf" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/pear/console_table" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/skyscanner/jsonpath" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/stack/builder" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony-cmf/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/class-loader" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/validator" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/webonyx/graphql-php" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/wikimedia/composer-merge-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/zendframework/zend-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/zendframework/zend-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/zendframework/zend-feed" />
+      <excludeFolder url="file://$MODULE_DIR$/contentadrupalbackend/vendor/zendframework/zend-stdlib" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

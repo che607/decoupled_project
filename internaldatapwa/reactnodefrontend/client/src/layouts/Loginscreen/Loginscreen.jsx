@@ -1,0 +1,21 @@
+import React, { Component } from 'react';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import RaisedButton from 'material-ui/RaisedButton';
+import Login from 'components/Login/Login';
+import Register from 'components/Register/Register';
+
+class Loginscreen extends Component {
+
+    render() {
+        return (
+            <div className="loginscreen">
+                <Login parentContext={this} appContext={this.props.parentContext}/>
+            </div>
+        );
+    }
+}
+const style = {
+    margin: 15,
+};
+
+export default Loginscreen;
